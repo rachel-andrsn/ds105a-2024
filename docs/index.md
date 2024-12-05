@@ -9,8 +9,7 @@
 📍 <strong>LOCATION:</strong> CLM.5.02
 </div>
 
-**AUTHOR:** Dr. [Jon Cardoso-Silva](https://jonjoncardoso.github.io)  
-**Assisted by:**  Rachel Anderson
+**AUTHOR:** Dr. [Jon Cardoso-Silva](https://jonjoncardoso.github.io)   
 **DEPARTMENT:** [LSE Data Science Institute](https://lse.ac.uk/dsi)
 
 > **Educational Notice:** This page demonstrates data visualisation and web publishing techniques for LSE DS105A students. Here I reproduce content from the UK Office for National Statistics (ONS) article ["Why do children and young people in smaller towns do better academically than those in larger towns?"](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whydochildrenandyoungpeopleinsmallertownsdobetteracademicallythanthoseinlargertowns/2023-07-25) (July 2023) as an educational tool to demonstrate how to host markdown-rendered pages via GitHub Pages.
